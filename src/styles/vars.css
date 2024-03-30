@@ -1,17 +1,5 @@
 :root{
-    /*FONT*/
-    --font-dm-sans:"DM Sans", sans-serif;
-    /* COLOR */
-    /*COLORS */
-    --text-base-dark:#000;
-    --text-base-light:#fff;
-    --text-sub:#a7a7a7;
-
-    --bg-icon:#131313;
-    --bg-top-bar:#61616142;
-    --grid-gap:24px;
-    --column-count:5;
-
+  
 /*COLORS CARDS */
     --card1:rgb(0, 100 ,80);
     --card2:rgb(132, 0, 231);
@@ -33,4 +21,18 @@
     }
     @media screen and(min-width:768px) and (max-width:1274px){
     
+
+
+      /*FONT*/
+      --font-dm-sans:"DM Sans", sans-serif;
+      /* COLOR */
+      /*COLORS */
+      --text-base-dark:#000;
+      --text-base-light:#fff;
+      --text-sub:#a7a7a7;
+  
+      --bg-icon:#131313;
+      --bg-top-bar:#61616142;
+      --grid-gap:24px;
+      --column-count:5;
     }
