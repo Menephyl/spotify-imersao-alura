@@ -35,7 +35,11 @@
     text-decoration: none;
     font-weight: 600;
     font-size: 0.625rem; /* 14px para rem*/
-
+}
+.sidebar nav ul li .fa{
+    font-size: 1.25rem;
+    margin-right: 0.625rem;
+    font-weight: 300;
 }
 .sidebar nav ul li a:hover{
     color: #ffffff;
