@@ -10,7 +10,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.625rem; /* 10px para rem */
+    padding: 0.625rem; /* 10px para rem */.header__login .subscribe    {
+    font-size: 12px !important;
+    padding: 12px !important;
+    margin-right: 5px !important;
+}
+.offer__list-item{
+    grid-template-columns: 1fr 1fr !important;
+}
     margin: 1.25rem; /* 20px para rem */
     border-radius: 0.5rem; /* 8px para rem */
     background-color: #121212;
