@@ -95,18 +95,7 @@
     display: flex;
 }
 
-.library .library__content .library-button{
-    background-color: #121212;
-    border-radius: 8px;
-    display: flex;
-    justify-content: space-between; /*tudo justificado com esse espaço entre os valores*/
-    flex-direction: column; 
-    padding: 4px 8px;
-    color: #b3b3b3;
-    font-weight: 600;
-    font-size: 14px;
-    margin-top: 10px; /*para nao ficar grudado em cima */
-}
+
 
 .library .library__button .fa {
     font-size: 20px;
@@ -123,13 +112,13 @@
 .library .library__content .fa-plus {
    margin: 24px 10px;
 }
-
+/* 
 .library .library__content{
     display:flex;
     justify-content: space-between;
 
-}
-.library .library__button{
+} */
+/* .library .library__button{
     margin-right: 10px;
     color: #b3b3b3;
     background-color: transparent;
@@ -142,7 +131,7 @@
     text-transform: none;
     padding: 20px 10px;
     display: flex;
-}
+} */
 .section-playlist{
     display: flex;
     align-items: flex-start;
