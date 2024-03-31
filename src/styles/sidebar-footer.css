@@ -1,7 +1,7 @@
-body{
+/* body{
     background-color: #3e6980;
     color: #fff;
-}
+} */
 .sidebar {
     position: fixed;  /* A BARRA LATERAL SERÁ FIXA*/
     top: 0; 
