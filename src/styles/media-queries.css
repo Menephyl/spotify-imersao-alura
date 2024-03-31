@@ -1,8 +1,10 @@
 @media screen and(max-width:1015px){
     .header__search{
+        display: none !important;
        width: auto !important;
        display: none;
     }
+    header__login .subscribe    
 }
 @media screen and(min-widht:1016px) and  (max-width:1140px){
     .header__search{
