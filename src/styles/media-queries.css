@@ -4,16 +4,17 @@
        width: auto !important;
        display: none;
     }
-    
+
+    .header__login .subscribe    {
+        font-size: 12px !important;
+        padding: 12px !important;
+        margin-right: 5px !important;
+    }
+    .offer__list-item{
+        grid-template-columns: 1fr 1fr !important;
+    }
 }
-.header__login .subscribe    {
-    font-size: 12px !important;
-    padding: 12px !important;
-    margin-right: 5px !important;
-}
-.offer__list-item{
-    grid-template-columns: 1fr 1fr !important;
-}
+
 @media screen and(min-widht:1016px) and  (max-width:1140px){
     .header__search{
     width: auto !important;
