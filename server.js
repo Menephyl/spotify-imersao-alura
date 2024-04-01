@@ -15,6 +15,10 @@ fs.readFile(artistsFilePath,(err,data) =>{
         return res.status(500).json({error:"Erro ao ler os dados dos artistas"})
     }
     const artist = JSON.parse(data)
-    res.json(artists)
+    res.json(artist)
     })
+})
+// inicia o servidor 
+app.listen(PORT,() => {
+    console.log('Servidor rodando em http://localhost:${PORT]')
 })
