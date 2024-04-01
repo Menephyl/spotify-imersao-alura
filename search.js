@@ -69,22 +69,6 @@ searchInput.addEventListener("input", function () {
 //   }
 //   requestApi(searchTerm);
 // });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /** Dessa forma, o nome e o gênero do artista serão exibidos dentro do elemento com a classe "artist-info". Você pode estilizar esse elemento usando CSS para que ele seja exibido da maneira desejada.
 
 Para exibir os elementos de informações, você pode criar um novo elemento HTML dentro do elemento com o id "result-artist" e adicionar as informações desejadas a esse novo elemento. Por exemplo, você pode criar um elemento <div> com a classe "artist-info" e adicionar o nome do artista e o gênero dentro desse elemento. */
