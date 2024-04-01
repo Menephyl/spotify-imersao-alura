@@ -2,5 +2,15 @@
   "dependencies": {
     "express": "^4.19.2",
     "npm": "^10.4.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "spotify-clone-excercise",
+  "description": "",
+  "version": "1.0.0",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
