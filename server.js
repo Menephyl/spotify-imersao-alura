@@ -20,5 +20,5 @@ fs.readFile(artistsFilePath,(err,data) =>{
 })
 // inicia o servidor 
 app.listen(PORT,() => {
-    console.log('Servidor rodando em http://localhost:${PORT]')
+    console.log('Servidor rodando em http://localhost:$3000]')
 })
