@@ -14,6 +14,7 @@ fs.readFile(artistsFilePath,(err,data) =>{
     if(err){
         return res.status(500).json({error:"Erro ao ler os dados dos artistas"})
     }
-    const artist
-})
+    const artist = JSON.parse(data)
+    res.json(artists)
+    })
 })
