@@ -45,7 +45,7 @@
     grid-template-columns: 1fr;
 }
 .offer__scroll-container{
-    overflow-y:hidden;
+    overflow-y:visible;
 }
 
 }
