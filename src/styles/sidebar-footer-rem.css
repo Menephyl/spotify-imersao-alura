@@ -105,7 +105,7 @@
     flex-direction: column;
 
 }
-.sectionn-playlist__content .text{
+.section-playlist__content .text{
     padding-bottom: 0.875rem; /*14px para rem */
     color: #fff;
 
