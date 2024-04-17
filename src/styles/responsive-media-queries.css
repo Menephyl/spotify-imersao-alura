@@ -15,7 +15,7 @@
     }
 }
 
-@media screen and(min-widht:1016px) and  (max-width:1140px){
+@media screen and(min-width:1016px) and  (max-width:1140px){
     .header__search{
     width: auto !important;
     display: none;
